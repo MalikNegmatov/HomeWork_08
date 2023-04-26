@@ -1,4 +1,4 @@
-import java.util.Arrays;
+// import java.util.Arrays;
 
 public class Main {
 
@@ -8,8 +8,8 @@ public class Main {
 //        task3();
     }
 
-    public static void task1() {
-        System.out.println("\nЗадача №1");
-//      Пишем код для задачи 1
-    }
+//    public static void task1() {
+//        System.out.println("\nЗадача №1");
+////      Пишем код для задачи 1
+//    }
 }
